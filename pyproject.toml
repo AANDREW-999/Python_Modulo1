@@ -4,3 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = []
+authors = [
+    { name = "Andres Gonzalez", email = "andresfelipegonzalez5a@gmail.com" }
+]
+readme = "README.md"
+repository = "https://github.com/AANDREW-999/Python_Modulo1.git"
