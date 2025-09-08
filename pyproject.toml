@@ -1,7 +1,7 @@
 [project]
 name = "python-modulo1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Desarrollo del modulo 1 de python"
 requires-python = ">=3.13"
 dependencies = []
 authors = [
